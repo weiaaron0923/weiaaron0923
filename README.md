@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @weiaaron0923
+- 👋 Hi, I’m wei
 - 👀 I’m interested in 教育大數據
 - 🌱 I’m currently learning 機器學習
