@@ -1,3 +1,4 @@
 - 👋 Hi, I’m wei
 - 👀 I’m interested in 教育大數據
 - 🌱 I’m currently learning 機器學習
+- 📖 I’m study at economic department
