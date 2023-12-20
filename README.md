@@ -1,4 +1,10 @@
 - 👋 Hi, I’m wei
-- 👀 I’m interested in 教育大數據
-- 🌱 I’m currently learning 機器學習
-- 📖 I’m study at economic department
+- 🎓 I’m study at economic department
+- 👀 I’m interested in Big Data in Education
+- 🌱 I’m currently learning machine learning
+- 🖋️ I enjoy learning about economic theories and their real world applications
+- 🌍 I aspire to contribute to global economic discussions through my academic pursuits
+- 🎵 I find inspiration in music and often relate economic concepts to different genres
+- 📊 My research focus includes applying data analytics to understand educational patterns
+- 🚀 I'm passionate about exploring the intersection of machine learning and economic trends
+- 🎮 In my free time, I unwind by experimenting with coding projects related to machine learning
